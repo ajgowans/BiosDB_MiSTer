@@ -9,7 +9,7 @@ Add an entry to the `downloader.ini` file on the root of your SD (create it if i
 
 ```
 [bios_db]
-db_url = https://raw.githubusercontent.com/BigDendy/BiosDB_MiSTer/db/bios_db.json
+db_url = https://raw.githubusercontent.com/ajgowans/BiosDB_MiSTer/db/bios_db.json
 ```
 
 Once you've done this, next time you run downloader, the BIOS will get installed too.
