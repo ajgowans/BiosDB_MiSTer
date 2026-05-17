@@ -31,6 +31,7 @@ games/MegaCD/USA/cd_bios.rom,https://archive.org/download/mister_bios_db/MegaCD.
 games/MSX1/boot.rom,https://archive.org/download/mister_bios_db/MSX1.zip/vg8020_basic-bios1.rom,32768,a0452dbf5ace7d2e49d0a8029efed09a,bios,overwrite:false,
 games/N64/boot.rom,https://archive.org/download/mister_bios_db/N64.zip/N64%2F%5BBIOS%5D%20Nintendo%2064%20-%20PIF%20%28Japan%2C%20USA%29.bin,1984,5C124E7948ADA85DA603A522782940D0,bios,overwrite:false,
 games/N64/boot1.rom,https://archive.org/download/mister_bios_db/N64.zip/N64%2F%5BBIOS%5D%20Nintendo%2064%20-%20PIF%20%28Europe%29.bin,1984,D4232DC935CAD0650AC2664D52281F3A,bios,overwrite:false,
+games/NeoGeoPocket/boot.rom,https://archive.org/download/mister_bios_db/NeoGeoPocket.zip/boot.rom,65536,43d0d53c69c12cc0d28f197717a1bb06,bios,overwrite:false,
 games/NeoGeo-CD/neocd.bin,https://archive.org/download/mister_bios_db/NeoGeoCD.zip/neocd.bin,524288,f39572af7584cb5b3f70ae8cc848aba2,bios,overwrite:false,
 games/NeoGeo-CD/top-sp1.bin,https://archive.org/download/mister_bios_db/NeoGeoCD.zip/top-sp1.bin,524288,122aee210324c72e8a11116e6ef9c0d0,bios,overwrite:false,
 games/NEOGEO/000-lo.lo,https://archive.org/download/mister_bios_db/NeoGeo.zip/000-lo.lo,131072,fc7599f3f871578fe9a0453662d1c966,bios,overwrite:false,
