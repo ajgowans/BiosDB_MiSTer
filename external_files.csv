@@ -15,6 +15,7 @@ games/COCO3/boot2.rom,https://archive.org/download/mister_bios_db/CoCo3.zip/boot
 games/CreatiVision/boot.rom,https://archive.org/download/mister_bios_db/CreatiVision.zip/Laser_2001_Bootrom.rom,16384,4dfadfb1158f84e2df2b85b13f303986,bios,overwrite:false,
 games/Gamate/boot.rom,https://archive.org/download/mister_bios_db/Gamate.zip/Gamate/gamate_boot.rom,4096,ef67993a94503c4b7798b5901c7dda52,bios,overwrite:false,
 games/GAMEBOY/boot1.rom,https://archive.org/download/mister_bios_db/Gameboy.zip/GBC_boot_ROM.gb,2304,dbfce9db9deaa2567f6a84fde55f9680,bios,overwrite:false,
+games/GameCom/boot.rom,https://archive.org/download/mister_bios_db/GameCom.zip/GameCom%20External%20BIOS%20%28Kitrinx%20v0.03%29.bin,262144,3f2178d717dd309ed7424d49ef92987f,bios,overwrite:false,
 games/GBA/boot.rom,https://archive.org/download/mister_bios_db/GBA.zip/gba_bios.bin,16384,a860e8c0b6d573d191e4ec7db1b1e4f6,bios,overwrite:false,
 games/Intellivision/boot0.rom,https://archive.org/download/mister_bios_db/Intellivision.zip/Executive%20ROM%2C%20The%20%281978%29%28Mattel%29.bin,8192,62e761035cb657903761800f4437b8af,bios,overwrite:false,
 games/Intellivision/boot1.rom,https://archive.org/download/mister_bios_db/Intellivision.zip/GROM%2C%20The%20%281978%29%28General%20Instruments%29.bin,2048,0cd5946c6473e42e8e4c2137785e427f,bios,overwrite:false,
