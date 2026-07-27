@@ -27,24 +27,7 @@ jobs:
 
     - name: Add NeoGeo UniBios
       run: |
-        if [ ! -f db.json ]; then
-          curl --fail --location --output "${RUNNER_TEMP}/db.json.zip" \
-            https://raw.githubusercontent.com/ajgowans/BiosDB_MiSTer/refs/heads/db/db.json.zip
-          echo "7b1674fe38fa73c429ecc9318a24d548  ${RUNNER_TEMP}/db.json.zip" | md5sum --check --status || exit 0
-
-          cp .github/add_neogeo_unibios.py "${RUNNER_TEMP}/"
-          git fetch origin db
-          git checkout -B db FETCH_HEAD
-          unzip -q "${RUNNER_TEMP}/db.json.zip"
-          touch db.json
-          zip -q -f db.json.zip db.json
-
-          python3 "${RUNNER_TEMP}/add_neogeo_unibios.py"
-          git add db.json.zip bios_db.json bios_db.json.zip
-          git commit -m "Creating bios_db DB"
-          git push origin db
-          exit 0
-        fi
+        if [ ! -f db.json ]; then exit 0; fi
 
         python3 .github/add_neogeo_unibios.py
         git add bios_db.json bios_db.json.zip
