@@ -38,7 +38,6 @@ games/N64/boot1.rom,https://archive.org/download/mister_bios_db/N64.zip/boot1.ro
 games/N64/boot3.rom,https://archive.org/download/mister_bios_db/N64.zip/boot3.rom,4194304,8d3d9f294b6e174bc7b1d2fd1c727530,bios,overwrite:false,
 games/N64/boot4.rom,https://archive.org/download/mister_bios_db/N64.zip/boot4.rom,4194304,aad37b1492886b892f1821f37fd3ae34,bios,overwrite:false,
 games/N64/boot5.rom,https://archive.org/download/mister_bios_db/N64.zip/boot5.rom,4194304,37c36e4286d36892a9fc70eafe4104be,bios,overwrite:false,
-games/NeoGeoPocket/boot.rom,https://archive.org/download/mister_bios_db/NeoGeoPocket.zip/boot.rom,65536,43d0d53c69c12cc0d28f197717a1bb06,bios,overwrite:false,
 games/NeoGeo-CD/neocd.bin,https://archive.org/download/mister_bios_db/NeoGeoCD.zip/neocd.bin,524288,f39572af7584cb5b3f70ae8cc848aba2,bios,overwrite:false,
 games/NeoGeo-CD/top-sp1.bin,https://archive.org/download/mister_bios_db/NeoGeoCD.zip/top-sp1.bin,524288,122aee210324c72e8a11116e6ef9c0d0,bios,overwrite:false,
 games/NEOGEO/000-lo.lo,https://archive.org/download/mister_bios_db/NeoGeo.zip/000-lo.lo,131072,fc7599f3f871578fe9a0453662d1c966,bios,overwrite:false,
