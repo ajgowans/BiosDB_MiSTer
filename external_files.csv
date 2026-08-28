@@ -57,7 +57,7 @@ games/PSX/boot2.rom,https://archive.org/download/mister_bios_db/PSX.zip/SCPH7002
 games/PSX/sbi.zip,https://archive.org/download/mister_bios_db/PSX.zip/sbi.zip,218953,706d60ab2dfdbfdd53be2069cb85a1fe,bios,overwrite:false,
 games/Studio-II/boot0.rom,https://archive.org/download/mister_bios_db/RCAStudioII.zip/boot0.rom,2048,b37205bf19b197682f00619d05da194b,bios,overwrite:false,
 games/Studio-II/boot1.rom,https://archive.org/download/mister_bios_db/RCAStudioII.zip/boot1.rom,4096,a6b94e449bc9ec58a30e1f75d590c558,bios,overwrite:false,
-games/Studio-II/boot2.rom,https://archive.org/download/mister_bios_db/RCAStudioII.zip/boot2.rom,4096,85514fd09950dd8c0cc25238a862c8dc,bios,overwrite:false,
+games/Studio-II/boot2.rom,https://archive.org/download/mister_bios_db/RCAStudioII.zip/boot2.rom,4096,849a484aa4b2784ece5c35c39d9d51a8,bios,overwrite:false,
 games/Studio-II/boot3.rom,https://archive.org/download/mister_bios_db/RCAStudioII.zip/boot3.rom,2048,aeec6fe3934481e20eb7db6d5ff56a54,bios,overwrite:false,
 games/Saturn/boot.rom,https://archive.org/download/mister_bios_db/Saturn.zip/Saturn%2FBios%20GameNavi%20HiSaturn%201.03.bin,524288,0306c0e408d6682dd2d86324bd4ac661,bios,overwrite:false,
 games/SCV/boot.rom,https://archive.org/download/mister_bios_db/SCV.zip/SCV%2FSCV%20boot.rom,6144,b596975be2e0360232bbeb1e492ab873,bios,overwrite:false,
