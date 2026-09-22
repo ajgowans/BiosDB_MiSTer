@@ -75,6 +75,7 @@ games/SuperAcan/boot2.rom,https://archive.org/download/mister_bios_db/SuperAcan.
 games/SuperAcan/boot2.rom,https://archive.org/download/mister_bios_db/SuperAcan.zip/BIOS%2Fumc6650.bin,16,9172d579799db373cab42638e9bc01d3,bios,overwrite:false,
 games/TGFX16-CD/cd_bios.rom,https://archive.org/download/mister_bios_db/TurboGrafx16.zip/TurboGrafx16/Super%20CD%203.1.pce,262144,98d43a097a165b03df170fd5c2ad2c2f,bios,overwrite:false,
 games/TI-99_4A/boot0.rom,https://archive.org/download/mister_bios_db/TI-99_4A.zip/boot0.rom,196608,a75bb208176c0aed1b6a04b2dcf4770c,bios,overwrite:false,
+games/VideoBrain/boot.rom,https://archive.org/download/mister_bios_db/VideoBrain.zip/boot.rom,4096,e1e7f6120eb8e23ca5c63b4246f04f18,bios,overwrite:false,
 games/WonderSwan/boot.rom,https://archive.org/download/mister_bios_db/WonderSwan.zip/boot.rom,4096,54b915694731cc22e07d3fb8a00ee2db,bios,overwrite:false,
 games/WonderSwan/boot1.rom,https://archive.org/download/mister_bios_db/WonderSwan.zip/boot1.rom,8192,880893bd5a7d53fff826bd76a83d566e,bios,overwrite:false,
 games/WonderSwanColor/boot.rom,https://archive.org/download/mister_bios_db/WonderSwan.zip/boot.rom,4096,54b915694731cc22e07d3fb8a00ee2db,bios mgl-bios,overwrite:false,
