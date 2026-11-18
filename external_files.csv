@@ -97,6 +97,8 @@ games/SuperAcan/boot0.rom,https://archive.org/download/mister_bios_db/SuperAcan.
 games/SuperAcan/boot1.rom,https://archive.org/download/mister_bios_db/SuperAcan.zip/BIOS%2Finternal_6502_1.bin,8192,c5bab9c8148578cda8a7bc6098e7fb52,bios,overwrite:false,
 games/SuperAcan/boot2.rom,https://archive.org/download/mister_bios_db/SuperAcan.zip/BIOS%2Finternal_6502_2.bin,8192,3938e12dae1845046b3f2fa023a6a56a,bios,overwrite:false,
 games/SuperAcan/boot2.rom,https://archive.org/download/mister_bios_db/SuperAcan.zip/BIOS%2Fumc6650.bin,16,9172d579799db373cab42638e9bc01d3,bios,overwrite:false,
+games/SVI328/boot.rom,https://archive.org/download/mister_bios_db/SVI328.zip/SVI328%2Fboot.rom,32768,352f054ab09605070bdff49d73f335cc,bios,overwrite:false,
+games/SVI328/boot1.rom,https://archive.org/download/mister_bios_db/SVI328.zip/SVI328%2Fboot1.rom,4096,82f7bc9c08f43db1d79bcb565a0de12b,bios,overwrite:false,
 games/TGFX16-CD/cd_bios.rom,https://archive.org/download/mister_bios_db/TurboGrafx16.zip/TurboGrafx16/Super%20CD%203.1.pce,262144,98d43a097a165b03df170fd5c2ad2c2f,bios,overwrite:false,
 games/TI-99_4A/boot0.rom,https://archive.org/download/mister_bios_db/TI-99_4A.zip/boot0.rom,196608,a75bb208176c0aed1b6a04b2dcf4770c,bios,overwrite:false,
 games/VideoBrain/boot0.rom,https://archive.org/download/mister_bios_db/VideoBrain.zip/boot0.rom,4096,e1e7f6120eb8e23ca5c63b4246f04f18,bios,overwrite:false,
