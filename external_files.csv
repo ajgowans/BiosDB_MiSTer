@@ -29,6 +29,7 @@ games/Geneve/boot.rom,https://archive.org/download/mister_bios_db/Geneve.zip/boo
 games/HP9K385/boot0.rom,https://archive.org/download/mister_bios_db/HP9K385.zip/HP9K385%2Fboot0.rom,131072,10f0c799ea37f6234d844cd18fa51c30,bios,overwrite:false,
 games/HP9K385/boot1.rom,https://archive.org/download/mister_bios_db/HP9K385.zip/HP9K385%2Fboot1.rom,32768,7dc57481e2a6c776db325f55cbac81c6,bios,overwrite:false,
 games/HP9K385/boot2.rom,https://archive.org/download/mister_bios_db/HP9K385.zip/HP9K385%2Fboot2.rom,2048,ac077ce26051c558c57f09dbd204f878,bios,overwrite:false,
+games/HP9K715/boot.rom,https://archive.org/download/mister_bios_db/HP9K715.zip/HP9K715%2Fboot.rom,258728,c11dd65c6ecb716f70021583d080d83c,bios,overwrite:false,
 games/Hyperion/boot.rom,https://archive.org/download/mister_bios_db/Hyperion.zip/boot.rom,20480,c080dff07d202b7e2178c65bf710fe90,bios,overwrite:false,
 games/Intellivision/boot0.rom,https://archive.org/download/mister_bios_db/Intellivision.zip/Executive%20ROM%2C%20The%20%281978%29%28Mattel%29.bin,8192,62e761035cb657903761800f4437b8af,bios,overwrite:false,
 games/Intellivision/boot1.rom,https://archive.org/download/mister_bios_db/Intellivision.zip/GROM%2C%20The%20%281978%29%28General%20Instruments%29.bin,2048,0cd5946c6473e42e8e4c2137785e427f,bios,overwrite:false,
