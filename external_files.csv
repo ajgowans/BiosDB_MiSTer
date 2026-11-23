@@ -41,6 +41,7 @@ games/Jaguar/boot1.rom,https://archive.org/download/mister_bios_db/Jaguar.zip/Ja
 games/Jaguar/boot2.rom,https://archive.org/download/mister_bios_db/Jaguar.zip/Jaguar%2Fboot2.rom,131072,4af00f1c26898cf04585e1693d25faba,bios,overwrite:false,
 games/Loopy/boot0.rom,https://archive.org/download/mister_bios_db/CasioLoopy.zip/boot0.rom,32768,d527e3ed1bf9bd0661154c202a65c5bd,bios,overwrite:false,
 games/Loopy/boot1.rom,https://archive.org/download/mister_bios_db/CasioLoopy.zip/boot1.rom,524288,c0f1c899c9ca098663d046d60779711d,bios,overwrite:false,
+games/MacLC/boot0.rom,https://archive.org/download/mister_bios_db/MacLC.zip/MacLC%2Fboot0.rom,524288,d873ea4ccdede773660787d9261ff267,bios,overwrite:false,
 games/Marty/mrom.m36,https://archive.org/download/mister_bios_db/FMTownsMarty.zip/mrom.m36,2097152,2ea2d6e18a6ec4cae998be5599fa69de,bios,overwrite:false,
 games/Marty/mrom.m37,https://archive.org/download/mister_bios_db/FMTownsMarty.zip/mrom.m37,2097152,609d6356ac4b950238339772199266ce,bios,overwrite:false,
 games/MegaCD/boot.rom,https://archive.org/download/mister_bios_db/MegaCD.zip/US%20Sega%20CD%202%20%28Region%20Free%29%20930601%20l_oliveira.bin,131072,14db9657bbaa6fbb9249752424dc0ce4,bios,overwrite:false,
