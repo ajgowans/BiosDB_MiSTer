@@ -68,6 +68,8 @@ games/NEOGEO/sp-s2.sp1,https://archive.org/download/mister_bios_db/NeoGeo.zip/sp
 games/NES/boot0.rom,https://archive.org/download/mister_bios_db/NES.zip/fds-bios.rom,8192,ca30b50f880eb660a320674ed365ef7a,bios,overwrite:false,
 games/NGPC/boot0.rom,https://archive.org/download/mister_bios_db/NGPC.zip/boot0.rom,65536,3655aacebb43a963607d4cf821fc1301,bios,overwrite:false,
 games/NGPC/boot1.rom,https://archive.org/download/mister_bios_db/NGPC.zip/boot1.rom,65536,d87d876c4391935c9d48ef352a3ff02d,bios,overwrite:false,
+games/P2000T/boot0.rom,https://archive.org/download/mister_bios_db/P2000T.zip/boot0.rom,4096,2a9c5b22537738b66f4e619734318c15,bios,overwrite:false,
+games/P2000T/boot1.rom,https://archive.org/download/mister_bios_db/P2000T.zip/boot1.rom,16384,2191811aa64f8e7f273ce0f462374728,bios,overwrite:false,
 games/Pasopia7/boot.rom,https://archive.org/download/mister_bios_db/Pasopia7.zip/boot.rom,53248,a6f6ec3e507e4058baf54bce4fdb37f5,bios,overwrite:false,
 games/Pasopia7/boot1.rom,https://archive.org/download/mister_bios_db/Pasopia7.zip/boot1.rom,34816,8868938d294bdbf9cf482d447fe352da,bios,overwrite:false,
 games/Pasopia7/boot2.rom,https://archive.org/download/mister_bios_db/Pasopia7.zip/boot2.rom,131072,00d4413007d66b30941245ceeff9dccd,bios,overwrite:false,
